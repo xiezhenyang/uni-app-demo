@@ -1,6 +1,7 @@
 # uni-app-demo
 
 ## Project setup
+node >= v20.14.0
 ```
 npm install
 ```
