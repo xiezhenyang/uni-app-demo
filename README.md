@@ -1,4 +1,5 @@
 # uni-app-demo
+A demo of uni-app learn
 
 ## Project setup
 node >= v20.14.0
